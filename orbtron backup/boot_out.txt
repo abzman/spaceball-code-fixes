@@ -1,0 +1,1 @@
+Adafruit CircuitPython 5.3.0-11-g5f36caa6b on 2020-05-17; Thingotron Orbotron 9001 with samd21g18
